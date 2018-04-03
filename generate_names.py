@@ -15,12 +15,14 @@ def generate_names(url):
     """
     soup = BeautifulSoup(urllib.request.urlopen(url), "html.parser")
     headings = soup.find_all(["h3"])
-    file = open("names.txt", "a")
+    file = open("association_names.txt", "a")
+    index = 1
     for i in headings:
         i = str(i)
         if i.startswith('<h3 class="media-heading'):
             result = re.search('<h3 class="media-heading">(.*) <small>', i)
-            file.write(result.group(1)+"\n")
+            file.write("{} R{}\n".format(result.group(1), index))
+            index += 1
 
 
 def main():
