@@ -1,0 +1,2 @@
+EvoSuite at the SBST 2016 Tool Competition
+EvoSuite is a search-based tool that automatically generates unit tests for Java code. This paper summarizes the results and experiences of EvoSuite’s participation at the fourth unit testing competition at SBST 2016, where EvoSuite achieved the highest overall score.

@@ -1,0 +1,2 @@
+Evosuite at the second unit testing tool competition
+EvoSuite is a mature research prototype implementing a search-based approach to unit test generation for Java classes. It has been successfully run on a variety of different Java projects in the past, and after winning the first instance of the unit testing tool competition at SBST’13, it has also taken part in the second run. This paper reports on the obstacles and challenges encountered during the latter competition.

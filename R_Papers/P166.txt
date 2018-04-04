@@ -1,0 +1,2 @@
+EvoMaster: Evolutionary Multi-context Automated System Test Generation
+This paper presents EVOMASTER, an open-source tool that is able to automatically generate system level test cases  using evolutionary algorithms. Currently, EVOMASTER targets  RESTful web services running on JVM technology, and has  been used to find several faults in existing open-source projects.  We discuss some of the architectural decisions made for its  implementation, and future work.

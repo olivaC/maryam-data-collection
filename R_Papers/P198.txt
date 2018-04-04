@@ -1,0 +1,2 @@
+Automatische erzeugung von unit tests für klassen mit umgebungsabhängigkeiten
+Die automatische Erzeugung von Tests für objektorientierte Software besteht typischerweise aus der Erstellung von Sequenzen von Methodenaufrufen um hohe Codeabdeckung zu erzielen. In der Praxis könnte der Erfolg dieses Prozesses eingeschränkt sein, wenn Klassen mit ihrer Umgebung, wie zum Beispiel dem Dateisystem, dem Netzwerk oder Nutzern interagieren. Das fürt zu zwei großen Problemen.
