@@ -38,7 +38,7 @@ def generate_titles(html_file, profile, ind):
                     associative_file.write("{},P{}\n".format(profile, index))
                     filename = os.path.join(r_path, 'P{}.txt'.format(index))
                     papers = open(filename, 'a')
-                    papers.write("{}".format(j.text))
+                    papers.write("{}\n".format(j.text))
                     papers.close()
                     rev_file.write("{}\n\n".format(j.text))
                     index = index + 1
