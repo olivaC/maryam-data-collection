@@ -1,0 +1,2 @@
+The Soot framework for Java program analysis: a retrospective
+Soot is a successful framework for experimenting with compiler and software engineering techniques for Java programs. Researchers from around the world have implemented a widerange of research tools which build on Soot, and Soot has been widely used by students for both courses and thesis research. In this paper, we describe relevant features of Soot, summarize its development process, and discuss useful features for future program analysis frameworks.

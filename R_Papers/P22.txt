@@ -1,0 +1,2 @@
+PSHAPE: Automatically Combining Gadgets for Arbitrary Method Execution
+Return-Oriented Programming (ROP) is the cornerstone of today's exploits. Yet, building ROP chains is predominantly a manual task, enjoying limited tool support. Many of the available tools contain bugs, are not tailored to the needs of exploit development in the real world and do not offer practical support to analysts, which is why they are seldom used for any tasks beyond gadget discovery.

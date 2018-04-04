@@ -1,0 +1,2 @@
+Defining Access Control Policies as Tracematches
+Tracematches are a programming language for runtime monitoring of Java programs. A tracematch declares a set of program events to observe, along with a regular expression. When the program events occur in the order defined by the expression, the tracematch “triggers”, executing a userdefined piece of code. In this work we show how tracematches can be used to define history-based access control policies.

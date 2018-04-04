@@ -1,0 +1,2 @@
+Harvester
+Zusammenfassung Mit Harvester können Sicherheitsexperten und Entwickler automatisch Laufzeitwerte aus Android-Apps extrahieren, selbst wenn diese nur verschlüsselt im Code vorliegen. Diese Werte zeigen, wie Apps mit Internetdiensten interagieren und ermöglichen, Datendiebstahl und Schwachstellen frühzeitig zu erkennen. Harvester verbessert hierdurch den Privatsphärenschutz von Milliarden von Endnutzern.

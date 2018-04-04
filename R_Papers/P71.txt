@@ -1,0 +1,2 @@
+Schutzmaßnahmen gegen datenschutz-unfreundliche Smartphone-Apps
+Privacy Enhancing Technologies, which monitor the handling of smartphone apps with personally identifiable information and prevent unwanted transmissions, may conflict with copyright laws. The article examines the technical possibilities of self-data protection and makes a first legal assessment.

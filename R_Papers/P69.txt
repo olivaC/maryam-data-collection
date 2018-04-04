@@ -1,0 +1,2 @@
+Zertifizierte Datensicherheit für Android-Anwendungen auf Basis statischer Programmanalysen.
+Smartphones erfreuen sich einer stetig wachsenden Beliebtheit. Ein Grund hierfür ist die Vielzahl verschiedenster mobiler Anwendungen. Mit den Chancen, die sich hierdurch für den Benutzer, aber auch Organisationen bieten, sind Risiken verbunden, die beispielsweise zu einer Verletzung der Privatsphäre führen können. In diesem Beitrag diskutieren wir, wie statische Programmanalyse dabei helfen kann, Android-Anwendungen bzgl. der Sicherheit zu zertifizieren.
