@@ -1,0 +1,2 @@
+Time-travel debugging for JavaScript/Node. js
+Time-traveling in the execution history of a program during debugging enables a developer to precisely track and understand the sequence of statements and program values leading to an error. To provide this functionality to real world developers, we embarked on a two year journey to create a production quality time-traveling debugger in Microsoft's open-source ChakraCore JavaScript engine and the popular Node.js application framework.
