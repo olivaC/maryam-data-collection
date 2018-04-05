@@ -1,0 +1,2 @@
+Refactoring towards the good parts of JavaScript
+JavaScript is one of the most widely used programming languages of the present day. While its flexibility is treasured by proponents, its lack of language support for encapsulation is an obstacle to writing maintainable programs. We propose refactorings for improving modularity, and discuss challenges arising in their implementation.

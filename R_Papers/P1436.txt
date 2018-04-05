@@ -1,0 +1,2 @@
+Improving Tools for JavaScript Programmers (Position Paper)
+We present an overview of three research projects that all aim to provide better tools for JavaScript web application programmers1 : TAJS, which infers static type information for JavaScript applications using dataflow analysis; JSRefactor, which enables sound code refactorings; and Artemis, which provides high-coverage automated testing.
