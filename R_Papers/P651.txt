@@ -1,0 +1,2 @@
+Towards deployment-time dynamic analysis of server applications
+Bug-finding tools based on dynamic analysis (DA), such as Valgrind or the compiler sanitizers provided by Clang and GCC, have become ubiquitous during software development. These analyses are precise but incur a large performance overhead (often several times slower than native execution), which makes them prohibitively expensive to use in production. In this work, we investigate the exciting possibility of deploying such dynamic analyses in production code, using a multi-version execution approach.

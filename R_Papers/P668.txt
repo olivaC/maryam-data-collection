@@ -1,0 +1,2 @@
+Efficient Argumentation for Medical Decision-Making
+We describe the application of assumption-based argumenta- tion (ABA) to a domain of medical knowledge derived from clinical trials of drugs for breast cancer. We adapt an al- gorithm for calculating the admissible semantics for ABA frameworks to take account of preferences and describe a prototype implementation which uses variant-based parallel computation to improve the efficiency of query answering.

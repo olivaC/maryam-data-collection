@@ -1,0 +1,2 @@
+High-Coverage Symbolic Patch Testing
+Software patches are often poorly tested, with many of them containing faults that affect the correct operation of the software. In this paper, we propose an automatic technique based on symbolic execution, that aims to increase the quality of patches by providing developers with an automated mechanism for generating a set of comprehensive test cases covering all or most of the statements in a software patch. Our preliminary evaluation of this technique has shown promising results on several real patches from the lighttpd web server.
