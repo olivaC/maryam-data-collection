@@ -1,0 +1,3 @@
+Don't forget the developers!(and be careful with your assumptions)
+This chapter is not about data science for software engineering specifically; it is rather a general reflection about the broad set of techniques whose goal is to help developers perform software engineering tasks more efficiently and/or effectively. As a representative of these techniques, we studied spectra-based fault localization (SBFL), an approach that has received a great deal of attention in the last decade. We believe that studying SBFL, how it evolved over the years, and the way in which it has been evaluated, can teach us some general lessons that apply to other research areas that aim to help developers, including software analytics.
+
