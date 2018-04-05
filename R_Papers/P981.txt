@@ -1,0 +1,2 @@
+A case for using data-flow analysis to optimize incremental scope-bounded checking
+In software verification, scope-bounded checking of programs has become an effective technique for finding subtle bugs. Given bounds (that are iteratively relaxed) on input size and length of execution paths, a program and its correctness specifications are translated into a formula, which is solved using off-the-shelf solvers – a solution to the formula is a counterexample to the correctness specification.
