@@ -1,0 +1,2 @@
+Race detection for web applications
+A method of executing a rendering engine including executing a web application including at least two operations a single thread of execution, generating an auxiliary map for instrumentation accesses of the web application, and detecting and reporting concurrent memory accesses of the web application as a race.

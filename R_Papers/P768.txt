@@ -1,0 +1,2 @@
+Using atomic sets of memory locations
+A system and method includes steps or acts of receiving and examining a computer program written in an object-oriented language; receiving sequences of accesses that form logical operations on a set of memory locations used by the program; receiving definitions of atomic sets of memory locations, each consisting of pieces of data; providing a message indicating where the synchronization is required.

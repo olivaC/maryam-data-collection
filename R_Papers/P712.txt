@@ -1,0 +1,2 @@
+Automated testing of applications with scripting code
+A novel system, computer program product, and method are disclosed for feedback-directed automated test generation for programs, such as JavaScript, in which execution is monitored to collect information that directs the test generator towards inputs that yield increased coverage. Several instantiations of the framework are implemented, corresponding to variations on feedback-directed random testing, in a tool called Artemis.

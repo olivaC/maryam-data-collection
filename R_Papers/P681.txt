@@ -1,0 +1,2 @@
+SecureMR: secure mapreduce using homomorphic encryption and program partitioning
+In cloud computing customers upload data and computation to cloud providers. As they cede their data to the cloud provider, they may cede data confidentiality. We develop SecureMR, a system that analyzes and transforms MapReduce programs to operate over encrypted data. SecureMR makes use of partially homomorphic encryption and a trusted client. We evaluate SecureMR on a set of MapReduce benchmarks.

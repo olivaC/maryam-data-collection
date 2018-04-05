@@ -1,0 +1,2 @@
+Declarative object identity using relation types
+The present invention provides a programming model based on a relational view of the heap which defines identity declaratively, obviating the need for equals( ) and hashcode( ) methods. Each element in the heap (called a tuple) belongs to a relation type and relates an immutable identity to mutable state. The model entails a stricter contract: identity never changes during an execution. Objects, values, and singletons arise as special cases of tuples.

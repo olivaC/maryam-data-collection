@@ -1,0 +1,2 @@
+To Dream the Impossible Dream: Toward Security Analysis for JavaScript
+As the Web becomes the dominant interface to ever more aspects of life, we become ever more dependent upon Web technology to protect our security and privacy. However, the impossible dream refers to the difficulty in ensuring that current Web technology, which is heavily based on JavaScript, actually does this. In this talk, I shall discuss our experience at IBM Research in building static program analysis to check security properties.

@@ -1,0 +1,2 @@
+Fault localization using condition modeling and return value modeling
+Disclosed is a novel computer implemented system, on demand service, computer program product and a method that leverages combined concrete and symbolic execution and several fault-localization techniques to automatically detects failures and localizes faults in PHP Hypertext Preprocessor (“PHP”) Web applications.
