@@ -1,0 +1,2 @@
+Verification of plans and procedures
+Procedures and plans are used across NASA missions. For example, astronaut activities on the International Space Station are regulated by procedures which are uploaded from the ground. It is critical that these procedures are verified and validated before being executed by astronauts. This paper describes how we are applying advanced formal verification techniques, such as model checking, to plans and procedures expressed in semantically well-defined languages such as PRL and PLEXIL.

@@ -1,0 +1,3 @@
+Preface: Special Issue on Nasa Formal Methods Symposium 2009
+This journal issue contains seven articles representing extended versions of the best papers selected from the proceedings of the First NASA Formal Methods Symposium (NFM 2009). The NASA Formal Methods Symposium is a new annual event that focuses on formal techniques, their theory, current capabilities, and limitations, as well as their application to aerospace, robotics, and other safety-critical systems.
+

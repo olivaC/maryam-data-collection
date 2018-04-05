@@ -1,0 +1,2 @@
+Symbolic Arrays in Symbolic PathFinder
+Symbolic Execution is a program analysis technique used to increase software reliability. Modern software often manipulate complex data structures, many of which being similar to arrays. We present a novel approach and implementation in Symbolic PathFinder for handling symbolic arrays in Java. It enables analyzing a broader class of programs that manipulates arrays. We also extend the Symbolic Pathfinder testcase generation to support numeric arrays.
