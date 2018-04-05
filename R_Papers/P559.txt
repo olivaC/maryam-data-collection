@@ -1,0 +1,2 @@
+A Brief Survey of Related Work
+In this chapter we provide a brief survey of related research work. We first give an overview of alternative approaches to string analysis, followed by a discussion on recent work on string constraint solvers. We discuss application of string analysis and string constraint solving techniques to bug and vulnerability detection in web applications. We conclude the section with a discussion in differential analysis and program repair techniques.

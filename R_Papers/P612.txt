@@ -1,0 +1,2 @@
+Stranger: An automata-based string analysis tool for php
+Stranger is an automata-based string analysis tool for finding and eliminating string-related security vulnerabilities in PHP applications. Stranger uses symbolic forward and backward reachability analyses to compute the possible values that the string expressions can take during program execution. Stranger can automatically (1) prove that an application is free from specified attacks or (2) generate vulnerability signatures that characterize all malicious inputs that can be used to generate attacks.

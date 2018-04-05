@@ -1,0 +1,2 @@
+String Manipulating Programs and Difficulty of Their Analysis
+In this chapter, we first present a basic set of string manipulating instructions and then provide a larger set of instructions with more complex string operations. We discuss the difficulty of analyzing string manipulating programs and demonstrate that verification of string manipulating programs cannot be fully automated and precise at the same time.

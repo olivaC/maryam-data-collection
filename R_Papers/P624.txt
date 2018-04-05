@@ -1,0 +1,2 @@
+Dataset and evaluation of interest point detectors for visual tracking
+In this report, we present an extensive dataset of 96 video streams with ground truth. It includes various geometric changes, lighting conditions, and levels of motion blur, and can be used as testbed for a variety of algorithms in the context of visual tracking. We then use this dataset for a detailed quantitative evaluation of popular interest point detectors, which, in contrast to existing evaluations, is geared towards visual tracking in all relevant factors of the evaluation design.

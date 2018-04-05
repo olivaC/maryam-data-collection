@@ -1,0 +1,3 @@
+Data model bugs
+In today’s internet-centric world, web applications have replaced desktop applications. Cloud systems are frequently used to store and manage user data. Given the complexity inherent in web applications, it is imperative to ensure that this data is never corrupted. We overview existing techniques for data model verification in web applications, list bugs discovered by these tools, and discuss the impact, difficulty of detection, and prevention of these bugs.
+

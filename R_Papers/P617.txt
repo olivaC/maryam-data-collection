@@ -1,0 +1,2 @@
+Model-based Runtime Verification of Web Service Interface Contracts
+Web applications are required to follow an interface contract that specifies their expected behaviour when they communicate with a web service. Using the Amazon E-&#x00AD;Commerce Service as an example, we show how we can automatically test an implementation for conformance as well as monitor at runtime that each partner fulfills its part of the contract.

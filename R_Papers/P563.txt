@@ -1,0 +1,2 @@
+Relational String Analysis
+In this chapter, we discuss the relational string verification techniques based on multi-track automata. We present an approach that is capable of verifying properties that depend on relations among string variables. We discuss the basic word equations (over string concatenations) and the corresponding automata constructions. We present a verification technique based on forward symbolic reachability analysis with multi-track automata, conservative approximations of word equations and function summarization.

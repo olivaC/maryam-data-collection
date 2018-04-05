@@ -1,0 +1,128 @@
+String Analysis for Software Verification and Security
+In computing, a sequence of characters is called a string. For example, “Hello,
+World!” is a string (we use double quotes to indicate the beginning and end of
+the string). This particular string is very familiar to programmers since the first
+programming assignment in many programming textbooks is to write a program
+that outputs the string “Hello, World!” Although programmers become familiar with
+the creation and manipulation of strings very early on in their training, errors in
+string manipulating code is a major cause of software faults and vulnerabilities.
+This indicates that string manipulation is a challenging task for programmers, and
+automated techniques for analyzing string manipulating code, which is the topic of
+this monograph, are very desirable.
+Handling of strings in programming languages vary widely. In the C programming
+language, characters are a basic data type, but strings are not. Strings are
+represented as arrays of characters, which is a natural way to store strings. Since
+strings do not have a type dedicated to them, basic operations on strings (such as
+concatenating two strings) are not part of C, and are instead provided as library
+functions (such as strcat, strcpy, strcmp, strlen).
+In the Java programming language, strings are objects corresponding to the
+instances of String class. String operations are provided as the methods of
+the String class (such as the length, charat and concat methods) and the
+String class is implemented by storing strings as arrays of characters. Java also
+provides a string concatenation operator (“+”).
+In the more recent JavaScript programming language, strings are supported as
+one of the primitive data types, and strings can be constructed using operators such
+as string concatenation operator “+”. JavaScript also provides a set of methods for
+string manipulation (such as substring, indexOf, replace).
+We see that different languages treat strings differently. In general, support for
+string manipulation in programming languages has been increasing. This is due
+to increasing use of string manipulation in implementation of modern software applications. Here are some common uses of string manipulation in modern
+software development:
+• Input sanitization and validation: Many modern software applications are webbased
+and the user inputs to web applications typically come in the string form
+(for example a text field entered by the user). Since any user with an Internet
+connection can access web applications and interact with them, web application
+developers have to assume that the user input could be malicious. There are wellknown
+cyber-attack techniques that involve a malicious user submitting hidden
+commands via user input fields. Execution of these harmful commands can lead
+to unauthorized access to or loss of data. To prevent such scenarios, application
+developers have to either reject the user input that does not fit expected patterns
+(which is called input validation), or clean up the user input by removing
+unwanted characters (which is called input sanitization). Both input validation
+and sanitization involve string manipulation since user inputs are typically in
+string form.
+• Query generation for back-end databases: Many modern software applications
+use a back-end database to store data. When users interact with modern software
+applications, user requests result in generation of a query that is sent to a backend
+database. The user request triggers a piece of code that constructs the
+database query as a string. So, string manipulation is an essential part of query
+generation.
+• Generation of data formats such as XML, JSON, and HTML: Modern software
+applications typically use well-known data formats to store, exchange, or
+describe data. XML and JSON are two of the widely used data formats. HTML
+is the format used to describe web documents and to display user input forms
+in web applications. Many modern applications dynamically create documents
+in XML, JSON, or HTML format during program execution. Creation of XML,
+JSON, or HTML documents involve manipulation of strings.
+• Dynamic code generation: Software applications are becoming increasingly
+dynamic. For example, many modern web applications dynamically generate
+code based on user requests. Web applications are multi-tiered systems where
+part of the code is executed on web servers (that are typically hosted in computeclouds),
+and part of the code is executed on the client machine. It is common for
+the server-side code to generate client-side code dynamically at runtime. Clientcode
+is generated using string manipulation.
+• Dynamic class loading and method invocation: Programming languages are
+also becoming increasingly dynamic. Modern languages such as JavaScript and
+PHP allow functions to be specified using string variables, where the invoked
+methods or loaded classes depend on the values of the string variables at
+runtime. Reflection in Java allows programs to load classes dynamically at
+runtime. Similarly, in Objective-C, one can load classes from string variables.
+This provides developers powerful means to adjust program executions according
+to their runtime environment and status. However, since the loaded classes or
+invoked methods depend on the values of string variables at runtime, malicious developers could manipulate string values to obfuscate the program behavior, and
+prevent static detection of malicious behaviors such as accessing sensitive/private
+APIs in Android/iOS mobile applications.
+Due to extended use of strings in modern software development, errors in
+string manipulating code or maliciously written string manipulating code can
+have disastrous effects. It would be very helpful for developers to be able to
+automatically check if the string manipulation code works correctly with respect
+to their expectations. This is the core problem that string analysis addresses. String
+analysis is a static program analysis technique that determines the values that a
+string expression can take during program execution at a given program point. String
+analysis can be used to solve many problems in modern software systems that relate
+to string manipulation, such as:
+• String analysis can be used to identify security vulnerabilities by checking if a
+security sensitive function can receive an input string that contains an exploit [78,
+119, 130, 132]. This type of vulnerabilities are common in web applications when
+user input is not adequately validated or sanitized.
+• Modern dynamic languages enable execution of dynamically generated code. For
+example, in JavaScript, the eval function can be used to execute dynamically
+generate code. The eval function takes a string value as an argument and
+executes the JavaScript expression, variable, statement, or sequence of statements
+that is given as the argument. So, in order to analyze the behavior of a JavaScript
+program that uses the eval function, we first need to understand the set of string
+values that can be passed to the eval function as an argument. String analysis
+can be used for this purpose [57].
+• For applications that dynamically generate data in XML, JSON or HTML
+format, string analysis can be used to identify formatting errors in the generated
+documents, which would then identify bugs in the XML, JSON or HTML
+generating code [78].
+• For applications that dynamically generate queries for a back-end database, string
+analysis can be used to identify the set of queries that are sent to the backend
+database by analyzing the code that generates the SQL queries. This can
+be used to identify vulnerabilities, or to generate test queries for the back-end
+database [118, 119].
+• For web applications where server-side code dynamically generates client-side
+code, string analysis can be used to determine the client-side code that can be
+generated [82, 83], and this can be used to analyze and find potential problems in
+the generated client-side code.
+• String analysis can also be used for automatically repairing faulty string manipulation
+code. For example, input validation and sanitization functions can be
+repaired automatically by identifying the set of input values that can cause a
+vulnerability [128].
+• For programs that have classes loaded from strings, string analysis can be used in
+advance to find all potential values of loaded classes or invoked methods, for
+example, for taming reflection in Java programs [22, 72]. Particularly, string analysis can be used to analyze complex string manipulation to improve the
+precision of static taint/flow analysis.
+Like many other program-analysis problems, it is not possible to solve the string
+analysis problem precisely (i.e., it is not possible to precisely determine the set
+of string values that can reach a program point). However, one can compute
+over- or under-approximations of possible string values. If the approximations
+are precise enough, they can enable us to demonstrate existence or absence of
+bugs and vulnerabilities in string manipulating code. String analysis has been
+an active research area in the last decade, resulting in a wide variety of stringanalysis
+techniques such as, grammar-based string analysis [63, 78], automata-based
+symbolic string analysis [26, 34, 55, 113, 114], string constraint solving [3, 12,
+15, 71, 93, 112], string abstractions [21, 131], relational string analysis [133],
+vulnerability detection using string analysis [100, 119, 129], differential string
+analysis [5, 7], and automated repair using string analysis [5, 128].
