@@ -1,0 +1,2 @@
+Client-Side XSS in Theorie und Praxis
+Although known for more than a decade [1], the vulnerability class of client-side cross-site scripting is still treated as the stepchild of the injection vulnerability family. Always in the shadow of big siblings, such as SQL injection or server-side XSS, they are often overlooked and received little attention in the past. In this paper, we'll explore the subject and examine not only how often such insecurities are found in real web pages, but also what causes the underlying vulnerability and how it can be easily prevented.

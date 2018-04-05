@@ -1,0 +1,3 @@
+How Attackers Threaten the Web
+Since the Web is an important application platform, it is a high profile target for attackers. Different attackers have different capabilities, and certain vulnerabilities require a specific set of capabilities to be exploited. These capabilities are generally captured in a threat model, describing what an attacker can and cannot do. In this chapter, we provide an overview of the relevant academic threat models for the Web. Since these models are often highly tailored to a specific problem statement and solution, their slight differences make it difficult to compare threat models. Therefore, we decompose every threat model into concrete attacker capabilities, enabling a conceptual comparison of the threat models.
+

@@ -1,0 +1,2 @@
+Web-platform security guide: Security assessment of the web ecosystem
+In this document, we report on the Web-platform security guide, which has been developed within the EC-FP7 project STREWS. Based on their research, the STREWS consortium argues that in order to strengthening the Internet (e.g. against pervasive monitoring), it is crucial to also strengthen the web app

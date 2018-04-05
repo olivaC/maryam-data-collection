@@ -1,0 +1,2 @@
+The state of the cross-domain nation
+We did an exhaustive survey on the current practice of permitting client-side cross-domain HTTP requests ! Flash, Silverlight (and CORS) Result: A considerable fraction of sites utilize potentially insecure policies

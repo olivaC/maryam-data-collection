@@ -1,0 +1,2 @@
+Session hijacking attacks
+The term Session hijacking attacks refers to a class of attacks specific to Web applications. It describes situations in which the adversary impersonates a Web application’s user through unauthorized usage of session credentials within adversary-controlled HTTP requests.

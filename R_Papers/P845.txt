@@ -1,0 +1,2 @@
+HTML5-Security
+In the past, web browsers have always been extremely negative when it comes to security. Much of these abuses have been recognized and improved over the past few years. Now, HTML5, the next level of browser evolution, is on our doorstep. Marked by the bad experiences of the previous development, one meets the newly introduced browser features in many places with distrust. This article introduces the security properties of three prominent HTML5 JavaScript APIs.

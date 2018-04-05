@@ -1,0 +1,2 @@
+Real-time communications security on the web
+With the introduction of Web Real-Time Communications (WebRTC), both Web technology and RTC have entered a new era. WebRTC is a joint effort of the W3C and IETF, supported by a large industry consortium. The technology offers real-time, peer-to-peer communication capabilities directly in the user's browser, accessible to websites via JavaScript APIs. Because of the numerous potential applications and the accessibility of the technology, WebRTC is expected to quickly become a game-changing technology in the communication landscape.

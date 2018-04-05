@@ -1,0 +1,3 @@
+On JavaScript malware and related threats
+The term JavaScript Malware describes attacks that abuse the web browser’s capabilities to execute malicious script-code within the victim’s local execution context. Unlike related attacks, JavaScript Malware does not rely on security vulnerabilities in the web browser’s code but instead solely utilizes legal means in respect to the applying specification documents. Such attacks can either invade the user’s privacy, explore and exploit the LAN, or use the victimized browser as an attack proxy. This paper documents the state of the art concerning this class of attacks, sums up relevant protection approaches, and provides directions for future research.
+

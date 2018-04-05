@@ -1,0 +1,2 @@
+Session Fixation-The Forgotten Vulnerability?
+The term ‘Session Fixation vulnerability’ subsumes issues in Web applications that under certain circumstances enable the adversary to perform a session hijacking attack through controlling the victim’s session identifier value. We explore this vulnerability pattern. First, we give an analysis of the root causes and document existing attack vectors. Then we take steps to assess the current attack surface of Session Fixation. Finally, we present a transparent server-side method for mitigating vulnerabilities.

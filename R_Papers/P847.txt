@@ -1,0 +1,2 @@
+Towards stateless, client-side driven Cross-Site Request Forgery protection for Web applications.
+Cross-site request forgery (CSRF) is one of the dominant threats in the Web application landscape. In this paper, we present a lightweight and stateless protection mechanism that can be added to an existing application without requiring changes to the application’s code. The key functionality of the approach, which is based on the double-submit technique, is purely implemented on the client-side. This way full coverage of client-side generation of HTTP requests is provided.

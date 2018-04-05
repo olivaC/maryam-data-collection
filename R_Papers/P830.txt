@@ -1,0 +1,2 @@
+Improving Client-Side Web Security
+The previous chapters have covered a wide variety of attacks, which over the chapters came closer and closer to the user himself, eventually leading to the compromise of the browser and client device. In this chapter, we compile an overview of the best practices scattered throughout the previous chapters, resulting in a practical guide for securing Web applications in the modern age Web. We also look into the crucial role of research in Web security and identify future research challenges.

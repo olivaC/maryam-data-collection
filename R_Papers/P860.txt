@@ -1,0 +1,2 @@
+Code-injection Vulnerabilities in Web Applications—Exemplified at Cross-site Scripting
+Cross-site Scripting (XSS) is one of the most prevalent vulnerability types that affect Web applications. This article provides an overview of a dissertation, which addresses the problem XSS as a whole: It starts with a systematic deduction of causes and consequences of XSS, proceeds with presenting countermeasures to mitigate potential XSS-based attacks, and finally provides a type-based methodology that guarantees the creation of XSS-free applications.

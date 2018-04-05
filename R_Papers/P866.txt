@@ -1,0 +1,2 @@
+Dagstuhl Seminar 09141 Web Application Security - Abstracts Collection
+From 29th March to 3rd April 2009 the Dagstuhl Seminar 09141 Web Application Security was held in Schloss Dagstuhl -- Leibniz Center for Informatics. During the seminar, several participants presented their current research, and ongoing work and open problems were discussed. Abstracts of the presentations given during the seminar are put together in this paper. Links to full papers (if available) are provided in the corresponding seminar summary document.
