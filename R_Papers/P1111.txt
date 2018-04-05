@@ -1,0 +1,2 @@
+Monitoring People’s Behaviour using Video Analysis and trajectory Clustering
+Activity discovery within transportation systems (for example subways and roads) or home care monitoring based on cognitive vision and data-mining technologies, are the core activities of a project at Inria.

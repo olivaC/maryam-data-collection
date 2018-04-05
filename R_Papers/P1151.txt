@@ -1,0 +1,2 @@
+On the formalisation of GeKo: A generic aspect models weaver
+This technical report presents the formalisation of the composition operator of GeKo, a Generic Aspect Models Weaver

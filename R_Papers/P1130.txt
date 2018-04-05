@@ -1,0 +1,3 @@
+Sustainable ICT4D in Africa: Where Do We Go From Here?
+In recent years many researchers in Africa and beyond have devoted considerable resources investigating ways to harness the potential of ICT for improving users’ livelihood in developing areas. Topics and domains of interest appear to be broad with recurring themes and solutions. Unfortunately there are no clear research roadmaps on what is urgent and of the state of the art solutions. In this position paper for the AFRICOMM series of conference, we propose to investigate some priorities for ICT4D in Africa. We believe that our work could motivate researchers and create a synergy around a few important challenges of ICT4D in Africa.
+

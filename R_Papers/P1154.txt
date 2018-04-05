@@ -1,0 +1,3 @@
+Aspect-oriented model development at different levels of abstraction
+The last decade has seen the development of diverse aspect-oriented modeling (AOM) approaches. This paper presents eight different AOM approaches that produce models at different level of abstraction. The approaches are different with respect to the phases of the development lifecycle they target, and the support they provide for model composition and verification. The approaches are illustrated by models of the same concern from a case study to enable comparing of their expressive means. Understanding common elements and differences of approaches clarifies the role of aspect-orientation in the software development process.
+
