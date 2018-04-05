@@ -1,0 +1,2 @@
+An Introduction to Regression Testing
+http://www.uio.no/studier/emner/matnat/ifi/INF4290/v11/undervisningsmateriale/INF4290-RegTest.pdf

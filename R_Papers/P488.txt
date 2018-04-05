@@ -1,0 +1,2 @@
+Useful software engineering research-leading a double-agent life
+Though software engineering is in essence an engineering discipline, that is a discipline whose aim is “the construction of machinery and other artifacts for use by society”, software engineering research has always been struggling to demonstrate impact. This is reflected in part by the funding challenges that the discipline faces in many countries, the difficulties we have to attract industrial participants to our conferences, and the scarcity of papers reporting industrial case studies.

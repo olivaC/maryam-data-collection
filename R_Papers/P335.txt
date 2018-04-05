@@ -1,0 +1,2 @@
+TemPsy-Check: a Tool for Model-driven Trace Checking of Pattern-based Temporal Properties
+TemPsy (Temporal Properties made easy) is a pattern-based, domain-specific language for the specification of temporal properties. In this paper we provide an overview of TemPsy-Check, a tool that implements a model-driven approach for performing offline trace checking of temporal properties written in TemPsy. TemPsy-Check relies on an optimized mapping of temporal requirements written in TemPsy into Object Constraint Language (OCL) constraints on a conceptual model of execution traces.

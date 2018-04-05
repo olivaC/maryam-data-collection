@@ -1,0 +1,2 @@
+Subject Systems Data
+In this document, we report the data extracted from the subject systems used to compare the performance of GA, CP, and GA+CP in our work [2]. Specifically, the systems concern an Ignition Control System (ICS) [5], a Cruise Control System (CCS) [1], an Unmanned Air Vehicle (UAV) [6], a Generic Avionics Platform (GAP) [3], and the Herschel-Planck Satellite System (HPSS) [4].

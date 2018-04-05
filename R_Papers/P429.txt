@@ -1,0 +1,1 @@
+A Model-Driven Approach to Trace Checking of Temporal Properties with OCL

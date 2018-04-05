@@ -1,0 +1,2 @@
+The deadline misses constraints in ILOG solver v2
+In this report, we discuss the structure of the OPL constraint model we used to define the schedulability analysis problem of our work [1]. This document details constants, variables, constraints and objective function of the OPL constraint model.

@@ -1,0 +1,79 @@
+MODUS: A goal-based approach for quantitative assessment of technical systems
+Modern technical systems are often complex combinations of mechanical and electronic devices
+that are controlled and monitored by embedded software. This combination leads to massive improvements
+in product performance and flexibility, effectively turning conventionally designed
+mechanical and electronic equipment into smart devices [18]. Heart pacemakers, DVD players,
+and (new) cars are all examples of modern technical systems. At larger scales, many technical systems
+are in fact systems of systems, built by integrating independent, self-contained applications
+that, taken as a whole, satisfy a specified need [4]. Examples of such large-scale systems include
+airplanes, ships, and oil rigs.
+Technical systems typically have a long life-span with significant potential impact on their users
+and the environment. As a result, these systems are usually subject to various requirements concerning
+Reliability (continuity of correct service), Availability (readiness for correct service), Maintainability
+(ability to undergo modifications and repairs) and Safety (absence of catastrophic failures
+leading to injury or environmental damage). These quality factors together with the high cost
+of manufacturing also means that technical systems are expensive to develop. While the opportunities
+related to applying these systems are significant, there are risks associated with the impact
+and performance of the systems. It is therefore crucial to assess and manage risks throughout the
+system life cycle, starting from the inception phase to the maintenance and all through to the final
+decommissioning.
+The risks associated with technical systems can be examined along two main dimensions:
+• Dependability risks: These encompass the spectrum of risks posed by service failures and
+degradations that are more frequent and more severe than is acceptable [1]. Dependability is
+a very broad notion and covers reliability, availability, maintainability and safety described
+above [1].
+• Cost-effectiveness risks: These are risks posed by time and budget overruns and poor scoping
+of the systems. Cost-effectiveness is intimately affected by the dependability targets. It is
+therefore important to be realistic about the acceptable likelihood for failure and strike the
+right balance between costs and failure margins.
+A key requirement for many types of systems is to provide a documented case (that is, a systematic
+set of arguments backed up by convincing evidence) to demonstrate that the relevant risks are
+adequately mitigated and the overall goals of the system are achieved. For example, it is now
+increasingly common to develop safety cases for safety-critical systems to show that the safety
+risks have been reduced as low as reasonably possible and thus provide assurance that the safety
+goals of the system are fulfilled [11].
+For large technical systems, assessing the fulfillment of the overall dependability and cost-effectiveness
+goals is a difficult task. To facilitate this task, we describe in this report a flexible methodology, called Modus1
+, that enables analysts to quantitatively assess whether a system meets its goals. Our
+methodology builds on two basic principles:
+1. Goal Elaboration. Providing arguments about the satisfaction of an overall goal requires
+elaborating the goal into more specific subgoals for which meaningful evidence can be provided.
+For example, it is extremely hard, if not impossible, to directly argue about whether
+an overall goal such as “The system shall be safe” is met, unless this goal is systematically
+broken down into specific safety requirements with specific margins.
+2. Systematic Elicitation of Expert Opinions. Assessment has a strong dependence on expert
+opinions, hence it is essential to take measures for ensuring that these opinions are elicited
+as precisely as possible. An expert refers to an individual (typically a member of the assessment
+or development teams) with specific knowledge and skills gained from training and
+experience.
+Modus takes an inter-disciplinary approach towards assessment and builds on techniques from
+different fields of knowledge. In particular, we draw on goal modeling techniques developed in
+the Requirements Engineering field for capturing and decomposing the strategic goals concerning
+a system. A goal is defined as “a prescriptive statement of intent the system should satisfy” [21].
+Goals along with the relationships between them are used to create goal models. These models
+provide a logical basis for arguing about the mitigation of risks.
+We employ expert elicitation techniques widely used in risk management and other fields, such as
+medical sciences, for systematically soliciting expert opinions about quantities such as probabilities
+and weights, and further for monitoring and mitigating biases throughout the elicitation process
+[12, 15].
+Lastly, we will use probabilistic simulation techniques, in particular the Monte Carlo method [22,
+17], and sensitivity and impact analysis, to analyze goal satisfaction levels and the uncertainty in
+expert opinions.
+While the Modus methodology is general and can be used for various types of assessment, the
+main driver for our work is a particular kind of assessment activity, called technology qualification,
+aimed at verifying that the overall goals of a new technology will be satisfied within specific margins.
+Technology qualification is an increasingly important activity, particularly in fast-growing
+industry sectors, such as the energy sector, to ensure that newly developed solutions can be brought
+to the market in an efficient, safe, and credible manner. DNV’s A203 Recommended Practice (referred
+to as RP-A203 in the remainder of this report) [16] provides a useful overall framework for
+technology qualification.
+We take particular note of the activities outlined in RP-A203 and provide a mapping between the
+steps in Modus and the activities in the recommended practice to facilitate the integration of Modus
+into the technology qualification workflow. We note however that Modus has not yet been used in an actual technology qualification project. The approach we present in this report should therefore
+be seen an exposition of the basic ideas and principles and will inevitably have to be refined with
+practice.
+The remainder of this report is structured as follows: In Section 2, we discuss the general problems
+observed in assessing technical systems. In Section 3, we outline the technology qualification
+process prescribed by RP-A203. We provide a detailed description of our methodology for quantitative
+assessment in Section 4. We conclude the report in Section 5 with a summary and areas for
+future work.

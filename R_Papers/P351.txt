@@ -1,0 +1,2 @@
+The case for context-driven software engineering research: Generalizability is overrated
+For software engineering research to increase its impact and steer our community toward a more successful future, it must foster context-driven research. Such research focuses on problems defined in collaboration with industrial partners and is driven by concrete needs in specific domains and development projects.

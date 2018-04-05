@@ -1,0 +1,2 @@
+Embracing the engineering side of software engineering
+The author provides, based on 20 years of research and industrial experience, his assessment of software engineering research. He then builds on such analysis to provide recommendations on how we need to change as a research community to increase our impact, gain credibility, and ultimately ensure the success and recognition of our young discipline. The gist of the author's message is that we need to become a true engineering discipline.
