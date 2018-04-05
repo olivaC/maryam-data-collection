@@ -1,0 +1,3 @@
+PSyHCoS: parameter synthesis for hierarchical concurrent real-time systems
+Real-time systems are often hard to control, due to their complicated structures, quantitative time factors and even unknown delays. We present here PSyHCoS, a tool for analyzing parametric real-time systems specified using the hierarchical modeling language PSTCSP. PSyHCoS supports several algorithms for parameter synthesis and model checking, as well as state space reduction techniques. Its architecture favors reusability in terms of syntax, semantics, and algorithms. It comes with a friendly user interface that can be used to edit, simulate and verify PSTCSP models. Experiments show its efficiency and applicability.
+

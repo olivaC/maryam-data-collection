@@ -1,0 +1,2 @@
+An extensive model checking framework for multi-agent systems
+In this work, we propose a novel probabilistic modeling language PML-MAS to capture the stochastic characteristics of multi-agent systems (MASs). Moreover, we design a model checking framework for MAS, which is highly extensible. It provides powerful modeling editor, interactive simulator and automatic verifier for MASs. In addition, it can support various MAS model languages via extracting their semantic models and verification algorithms.

@@ -1,0 +1,2 @@
+FiB: Squeezing loop invariants by interpolation between forward/backward predicate transformers
+Loop invariant generation is a fundamental problem in program analysis and verification. In this work, we propose a new approach to automatically constructing inductive loop invariants. The key idea is to aggressively squeeze an inductive invariant based on Craig interpolants between forward and backward reachability analysis. We have evaluated our approach by a set of loop benchmarks, and experimental results show that our approach is promising.

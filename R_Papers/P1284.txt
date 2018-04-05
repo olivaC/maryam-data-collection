@@ -1,0 +1,3 @@
+On robustness of trust systems
+Trust systems assist in dealing with users who may betray one another. Cunning users (attackers) may attempt to hide the fact that they betray others, deceiving the system. Trust systems that are difficult to deceive are considered more robust. To formally reason about robustness, we formally model the abilities of an attacker. We prove that the attacker model is maximal, i.e. 1) the attacker can perform any feasible attack and 2) if a single attacker cannot perform an attack, then a group of attackers cannot perform that attack. Therefore, we can formulate robustness analogous to security.
+
