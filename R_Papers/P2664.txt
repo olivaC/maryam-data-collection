@@ -1,0 +1,2 @@
+Keynote: Large Scale Analysis of Software Repositories in Industry: Experiences from the CodeMine Project by Thomas Zimmermann
+These Keynotes speeches the following: Large Scale Analysis of Software Repositories in Industry: Experiences from the CodeMine Project.

@@ -1,0 +1,2 @@
+Appendix to Information Needs in Bug Reports: Improving Cooperation Between Developers and Users
+This technical report contains all data that is needed to replicate the paper “Information Needs in Bug Reports: Improving Cooperation Between Developers and Users” to be published at CSCW 2010 in Savannah, Georgia, USA. The accompanying zip file contains bug reports, cards with categorization, and R scripts that were used in the study.

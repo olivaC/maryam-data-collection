@@ -1,0 +1,2 @@
+The inductive software engineering manifesto: principles for industrial data mining
+The practices of industrial and academic data mining are very different. These differences have significant implications for (a) how we manage industrial data mining projects; (b) the direction of academic studies in data mining; and (c) training programs for engineers who seek to use data miners in an industrial setting.

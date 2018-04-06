@@ -1,0 +1,2 @@
+Coq's Prolog and application to defining semi-automatic tactics
+We report on a work-in-progress to re-implement Coq's apply tactic in order to embed some form of simple automation. We design it in a declarative way, relying on typeclasses eauto, a tactic which gives access to the proof-search mechanism behind type classes. We qualify this mechanism of " Coq's Prolog " and describe it in a generic way and explain how it can be used to support the construction of automatic and semi-automatic tactics.

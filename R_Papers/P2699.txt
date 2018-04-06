@@ -1,0 +1,2 @@
+Appendix to the Design of Bug Fixes
+This technical report contains supplemental information to the paper “The Design of Bug Fixes”, published in the Proceedings of the 35th International Conference on Software Engineering (ICSE 2013), San Francisco, CA, USA, May 2013. The technical report contains the interview guide, list of codes used for the analysis of the interviews with example quotations, as well as the full text of a follow-up survey.

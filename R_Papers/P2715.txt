@@ -1,0 +1,2 @@
+Data-driven games user research
+Gaming companies now routinely apply data mining to their user data in order to provide a better user experience and to plan the next release of their software. In this position paper we will present some of the games user research activities at Microsoft that leverage such automatically collected data. We will show how this data can lead to insights about game usage and player progression and discuss our current plans for future work.

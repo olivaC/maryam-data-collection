@@ -1,0 +1,2 @@
+Revival Actions in a Shooter Game
+In this paper we present an analysis of revival actions in a third person shooter video game. We observe that players who revived their teammates played significantly more sessions. They appear also to be more skilled and successful in the game in terms of kills, wins, and deaths. We then discuss how to extend our analysis methodology to other types of social play as well as other games.

@@ -1,0 +1,2 @@
+Cooperative alternation for termination and non-termination
+I present the work I have realised during my internship at Microsoft Research Cambridge, under the supervision of Byron Cook. The goal was to build a tool to combine already existing termination and non-termination provers with an alternating procedure. We have got some interesting results which confirm the interest of such an alternation. However, the main contributions of my own work are concentrated in the non-termination prover as I have developed new ideas and implemented them.

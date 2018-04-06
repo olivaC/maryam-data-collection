@@ -1,0 +1,2 @@
+The many faces of software analytics
+Articles regarding the many faces of software analytics highlight the power of analytics for different types of organizations: large organizations and open source projects, as well as small- to medium-sized projects.

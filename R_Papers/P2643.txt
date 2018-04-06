@@ -1,0 +1,2 @@
+One size does not fit all
+Not every prediction model can be transferred from one context to another. I've learned this the hard way in my work on defect prediction. The good news is that while prediction models might not always be applicable to other contexts, the methods typically are.

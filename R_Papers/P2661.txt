@@ -1,0 +1,2 @@
+Data hard with a vengeance (invited talk)
+Action flicks and the analysis of software data in industry have more in common than you think. Both action heroes and development teams are on tight deadlines to save the day. Getting wrong information can lead to disastrous outcomes. In this talk, I will share experiences from my six years of research in the Empirical Software Engineering Group working with engineers towards sound data-driven decision about software.

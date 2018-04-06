@@ -1,0 +1,2 @@
+Rethinking Productivity in Software Engineering (Dagstuhl Seminar 17102)
+This report documents the program and the outcomes of Dagstuhl Seminar 17102 "Rethinking Productivity in Software Engineering". In the following, we briefly summarize the goals and format of the of the seminar, before we provide insights and an outlook, including a few grand challenges, based on the results and statements collected during the seminar.

@@ -1,0 +1,2 @@
+Welcome from the chairs
+Welcome to MSR 2010, the Seventh IEEE Working Conference on Mining Software Repositories, held May 2–3 in Cape Town, South Africa, and co-located with the 2010 ACM/IEEE International Conference on Software Engineering (ICSE 2010).

@@ -1,0 +1,2 @@
+Analytics for Software Development
+Despite large volumes of data and many types of metrics, software projects continue to be difficult to predict and risky to conduct. In this paper we propose software analytics which holds out the promise of helping the managers of software projects turn their plentiful information resources, produced readily by current tools, into insights they can act on. We discuss how analytics works, why it’s a good fit for software engineering, and the research problems that must be overcome in order to realize its promise.

@@ -1,0 +1,2 @@
+Rsse 2010: Second international workshop on recommendation systems for software engineering
+The goal of this one-day workshop is to bring together researchers and practitioners with interest and experience in the theory, elaboration, and evaluation of concepts, techniques, and tools for providing recommendations to developers, managers, and other stakeholders involved in software engineering tasks.

@@ -1,0 +1,3 @@
+Card-sorting: From text to themes
+Suppose you just ran a survey with the question “What problems are stopping us from meeting our deadlines?” Since you didn’t know the problems in advance, you asked participants to simply write the problems into a textbox. This type of question is called an open-ended question; in contrast to closed-ended questions, which limit participants to a list of predefined answer choices. Your survey was very successful and you received hundreds of responses. Now you want to make sense of the data. How can you do this in a systematic way? In this essay, I will show you how card sorting can infer themes from text responses. You will learn everything you need to know for your first card sort.
+

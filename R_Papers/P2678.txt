@@ -1,0 +1,2 @@
+Software Development Analytics (Dagstuhl Seminar 14261)
+This report documents the program and the outcomes of Dagstuhl Seminar 14261 "Software Development Analytics". We briefly summarize the goals and format of the seminar, the results of the break out groups, and a draft of a manifesto for software analytics. The report also includes the abstracts of the talks presented at the seminar.

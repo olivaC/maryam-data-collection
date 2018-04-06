@@ -1,0 +1,2 @@
+Predicting defects with program dependencies
+Software development is a complex and error-prone task. An important factor during the development of complex systems is the understanding of the dependencies that exist between different pieces of the code. In this paper, we show that for Windows Server 2003 dependency data can predict the defect-proneness of software elements. Since most dependencies of a component are already known in the design phase, our prediction models can support design decisions.

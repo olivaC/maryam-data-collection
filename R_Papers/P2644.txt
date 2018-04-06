@@ -1,0 +1,2 @@
+Past, present, and future of analyzing software data
+This chapter introduces the book and offers some context for the rest of the chapters. Specifically, we explore different definitions of ”software analytics” as well the historical evolution of the data science for software engineering.

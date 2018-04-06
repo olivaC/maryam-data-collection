@@ -1,0 +1,2 @@
+Keynote Speeches
+These Keynotes speeches the following: The Sound of Data: Make Great Software!, Networks of `Things', Automated Software Transplantation, Cross-Disciplinary Modeling-The Good, the Bad, and the Ugly, New Threat Models for Cryptography, Even the Very Wise Cannot See All Ends: Many Facets of the Test Oracle Problem.
