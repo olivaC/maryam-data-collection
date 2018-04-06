@@ -1,0 +1,2 @@
+A Datalog model of must-alias analysis
+We give a declarative model of a rich family of must-alias analyses. Our emphasis is on careful and compact modeling, while exposing the key points where the algorithm can adjust its inference power. The model is executable, in the Datalog language, and forms the basis of a full-fledged must-alias analysis of Java bytecode in the Doop framework.

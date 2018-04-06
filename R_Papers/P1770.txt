@@ -1,0 +1,2 @@
+Technical Perspective High-Level Data Structures
+This lifting of data structure thinking to the relational level has long inspired computer scientists. In "An Introduction to Data Representation Synthesis," the authors aim at elevating data structure programming to the relational realm.
