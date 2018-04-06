@@ -1,0 +1,3 @@
+Safeguarding End-User Military Software
+ We have performed research on approaches for integrating the personnel who interact with software systems more directly in a collaborative effort of developing, deploying, validating and maintaining the various components of the systems, with the primary objective of enhancing their dependability. We have created techniques that capture and encode user expertise, verification and other dependability-enhancing techniques that use this expertise to function cost-effectively both collaboratively and across system lifetimes, and mechanisms for better coordinating the development and maintenance processes for these systems.
+
