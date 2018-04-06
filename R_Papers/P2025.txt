@@ -1,0 +1,2 @@
+System, method and apparatus for fully precise hybrid security verification of mobile applications
+A security verification system and method that includes outputting a list of potential dataflow vulnerabilities as a first output from inputting a subject program and security specification, mapping candidate vulnerabilities to a user interface (UI) entry point and payload from the output of the list of potential dataflow vulnerabilities to provide a second output, and performing directed testing of the second output.

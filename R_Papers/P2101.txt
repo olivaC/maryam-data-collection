@@ -1,0 +1,2 @@
+Building reusable function summaries for frequently visited methods to optimize data-flow analysis
+A method includes inspecting function summaries generated during a static analysis of a program and identifying a set of function summaries for a same method that have structural similarities. The method includes replacing the set of structurally similar summaries with a coarse summary. The method further includes using the coarse summary in subsequent static analysis operations. Apparatus and program products are also disclosed.

@@ -1,0 +1,2 @@
+Web crawling using static analysis
+A crawler including a document retriever configured to retrieve a first computer-based document, a link identifier configured to identify an actual string within the computer-based document as being a hyperlink-type string, and a static analyzer configured to perform static analysis of an operation on a variable within the first computer-based document to identify a possible string value of the variable as being a hyperlink-type string, where any of the strings indicate a location of at least a second computer-based document.

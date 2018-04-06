@@ -1,0 +1,2 @@
+Web testing tools system and method
+A method, computer program product, and computer system for analyzing, by a computing device, client-side code of a web component. An input constraint of the web component is identified based upon, at least in part, analyzing the client-side code of the web component. One or more input values within the input constraint are generated based upon, at least in part, the input constraint.

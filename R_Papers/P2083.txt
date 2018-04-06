@@ -1,0 +1,2 @@
+Determining privacy granularity
+Techniques for determining privacy granularity in a data flow are described herein. The techniques may include identifying a data flow source statement within a computer program and identifying a feature read at the source statement. The feature includes private data of a private data category. The techniques include identifying a sink of the data flow and determining a value associated with the feature flowing into the sink. The value indicates a degree of granularity of the private data flowing into the sink.

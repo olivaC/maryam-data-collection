@@ -1,0 +1,2 @@
+Using natural language processing for detection of intended or unexpected application behavior
+Detection of unintended application behaviors, where natural language processing (NLP) techniques are used to analyze the application, and specifically its graphical user interface (GUI), and construct an acceptable (or expected) list per-context actions. Actions executed by the application in a given context that do not fall within the list are flagged as unexpected (or anomalous).

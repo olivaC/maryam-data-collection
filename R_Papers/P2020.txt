@@ -1,0 +1,2 @@
+Determining privacy leaks
+Techniques for determining privacy leaks are described herein. The techniques may include (i) providing private data as input for an application, wherein the private data includes a signature identifying the private data; (ii) monitoring an output of the application for a presence of the signature; and (iii) determining that a private data leak has occurred in the application, wherein the determining is based, at least in part, on the presence of the signature in the output.

@@ -1,0 +1,2 @@
+Crawling computer-based objects
+Crawling computer-based objects is implemented by identifying a dependency between a first portion of a computer-based object set and a second portion of the computer-based object set, where the second portion is data-dependent on the first portion, and responsive to identifying the dependency, effecting a crawling of the first portion and thereafter a crawling of the second portion.

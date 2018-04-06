@@ -1,0 +1,2 @@
+Fixing security vulnerability in a source code
+A computer implemented method for automatically fixing a security vulnerability in a source code. The method includes obtaining identification of a code block that includes a code that sends tainted data to a corresponding sink code in the source code and automatically fixing the vulnerability by automatically performing code modification which is selected from the group of code modifications consisting of: code motion and code duplication.

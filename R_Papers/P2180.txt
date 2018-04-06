@@ -1,0 +1,2 @@
+Hybrid dependency analysis using dynamic and static analyses
+A method, computer program product, and system for performing a hybrid dependency analysis is described. According to an embodiment, a method may include computing, by one or more computing devices, one or more dynamic hints based on a finite set of executions of a computer program. The method may further include performing, by the one or more computing devices, a hybrid dependence analysis of one or more statements of the computer program.

@@ -1,0 +1,2 @@
+String analysis based on three-valued logic
+Performing string analysis based on three-valued logic by including expressing a property of a string in a computer software application as a three-valued logic shape predicate, performing a three-valued logic shape analysis using the shape predicate to reach a fixpoint solution, and evaluating the fixpoint solution to determine a three-valued logic value of the property.

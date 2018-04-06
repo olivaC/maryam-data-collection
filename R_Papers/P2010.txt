@@ -1,0 +1,2 @@
+Security analysis using relational abstraction of data structures
+Analyzing program code can include detecting an instance of a container within the program code using a processor, selecting a model container correlated with the container using the processor, and creating an instance of the model container within memory using the processor. A data-flow of the program code can be tracked through the instance of the model container instead of the instance of the container.

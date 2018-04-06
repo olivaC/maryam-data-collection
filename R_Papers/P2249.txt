@@ -1,0 +1,2 @@
+Detection of second order vulnerabilities in web services
+A system for detecting a vulnerability in a Web service can include a processor configured to initiate executable operations including determining whether a Web service uses identity of a requester to select one of a plurality of different paths of a branch in program code of the Web service and, responsive to determining that the Web service does select one of a plurality of different paths of a branch according to identity of the requester, indicating that the Web service has a potential vulnerability.

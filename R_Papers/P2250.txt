@@ -1,0 +1,2 @@
+Detection of second order vulnerabilities in web services
+A method of detecting a vulnerability in a Web service can include determining, using a processor, whether a Web service uses identity of a requester to select one of a plurality of different paths of a branch in program code of the Web service. The method further can include, responsive to determining that the Web service does select one of a plurality of different paths of a branch according to identity of the requester, indicating that the Web service has a potential vulnerability.

@@ -1,0 +1,2 @@
+Certifying server side web applications against security vulnerabilities
+Systems for server security verification include a report validation module configured to acquire a public key associated with a received report, where the received report was generated at a server, to decrypt the received report using the public key, and to determine a level of server-side security based on the decrypted report; and a processor configured to reconfigure a browser responsive to the determined level of server-side security.

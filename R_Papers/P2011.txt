@@ -1,0 +1,2 @@
+Precision-tuned runtime monitoring
+Preliminary program analysis of an executable may be performed. A security vulnerability level of a portion of the executable may be determined based on the preliminary program analysis. The security vulnerability level of the portion may be compared to a security vulnerability threshold. The precision of runtime monitoring of the portion may be tuned based on the comparison.

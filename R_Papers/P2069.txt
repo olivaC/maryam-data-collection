@@ -1,0 +1,2 @@
+Automatic correction of security downgraders
+Methods and systems for automatic correction of security downgraders. For one or more flows having one or more candidate downgraders, it is determined whether each candidate downgrader protects against all vulnerabilities associated with the candidate downgrader's respective flow. Candidate downgraders that do not protect against all of the associated vulnerabilities are transformed, such that the transformed downgraders do protect against all of the associated vulnerabilities.

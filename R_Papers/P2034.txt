@@ -1,0 +1,2 @@
+System and method for discovering ad-hoc communities over large-scale implicit networks by wave relaxation
+A method includes computing a diffusion vector starting with a seed, querying nodes for connections, reweighting diffusion vector based on the degrees, sorting nodes based upon magnitude in the reweighted diffusion vector which is obtained through wave relaxation solution of a time-dependent initial value problem, detecting a community through a sweep over the nodes according to their rank, and selecting a prefix that minimizes or maximizes an objective function.

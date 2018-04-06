@@ -1,0 +1,2 @@
+Modeling memory use of applications
+A method includes receiving a program code at a processor. The method also includes generating, via the processor, a heap model corresponding to the program code. The method further includes detecting, via the processor, a linearizable data structure in the program code. The method also further includes modifying, via the processor, the heap model based on the detected linearizable data structure. The method also further includes analyzing, via the processor, the program code using the modified heap model.

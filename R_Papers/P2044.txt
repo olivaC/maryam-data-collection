@@ -1,0 +1,2 @@
+Providing context in functional testing of web services
+Providing context in functional testing of web services. Methods of a web service are categorized into predefined categories defining interaction flows on the web, based on a semantic analysis of the names of the web methods. For each categorized web method, a testing context for the web method is created according to its category in the form of a sequence of one or more other methods of the web service that provide an appropriate context for testing the web method.

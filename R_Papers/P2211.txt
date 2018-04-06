@@ -1,0 +1,2 @@
+Detecting security vulnerabilities on computing devices
+Identifying security vulnerabilities on computing devices by detecting an inter-process communication on a computing device, determining whether the inter-process communication is consistent with a predefined specification of a security vulnerability, and causing a predefined action to be performed on the computing device responsive to determining that the inter-process communication is consistent with a predefined specification of a security vulnerability.

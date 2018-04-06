@@ -1,0 +1,2 @@
+Collaborative application testing
+A method, computer program product, and computer system for performing, at a computing device, an analysis of a web application. A response is annotated by the web application with coverage data based upon, at least in part, the analysis, wherein the coverage data indicates which actions have been performed on the web application and which actions have not been performed on the web application according to results of the analysis. The response that includes the coverage data is shared with one or more users.

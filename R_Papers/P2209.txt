@@ -1,0 +1,2 @@
+Efficient code instrumentation
+A method for instrumenting a computer program, the method including identifying a program slice within a computer program, and instrumenting the program slice within the program.

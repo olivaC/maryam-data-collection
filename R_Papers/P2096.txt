@@ -1,0 +1,2 @@
+Automated testing of websites based on mode
+Examples of techniques for testing websites are described herein. In one example, a method for testing a website includes receiving, via a processor, a website address of the website to be tested. The method can include determining, via the processor, whether the website is in a staging mode or a production mode. The method can also include configuring, via the processor, a testing application to test the website according to the determined mode.

@@ -1,0 +1,2 @@
+Detection of DOM-based cross-site scripting vulnerabilities
+Testing a Web-based application for security vulnerabilities. At least one client request including a payload having a unique identifier can be communicated to the Web-based application. Response HTML and an associated Document Object Model (DOM) object can be received from the Web-based application. Content corresponding to the payload can be identified in the DOM object via the unique identifier. A section of the DOM object including the payload can be identified as un-trusted.

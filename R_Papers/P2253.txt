@@ -1,0 +1,2 @@
+Static analysis with input reduction
+Statically analyzing a computer software application can include identifying a plurality of objects within the instructions of a computer software application, where the objects in the plurality of objects are of the same object type, and preparing a modified version of the instructions in which any of the objects in the plurality of objects determined to be extraneous is omitted.

@@ -1,0 +1,2 @@
+Trace recovery via statistical reasoning
+A method (and system) for trace recovery includes retrieving a code listing from a memory and performing a static analysis on the retrieved code listing. Based on the static analysis, profiling instructions are inserted in the code.

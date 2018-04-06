@@ -1,0 +1,2 @@
+Comparing source and sink values in security analysis
+Techniques for determining differences between source and sink values are described herein. The techniques may include identifying a data-flow source statement within a computer program, and recording a value read at the source statement. The techniques may include identifying a sink of the data flow, and record a value flowing into the sink. The source value may be compared to the sink value to determine whether a potential security leak exists.

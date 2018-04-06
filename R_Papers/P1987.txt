@@ -1,0 +1,2 @@
+Crowd based detection of device compromise in enterprise setting
+A computer-implemented method, computer program product, and system for detecting anomalous behavior of computing devices are provided. The computer-implemented method for detecting anomalous behavior of computing devices may include establishing a network of computing devices; receiving shared data from the networked devices; determining device behavior; predicting future device behavior, detecting anomalous device behavior, and sending an alert in response to a detection of anomalous device behavior.

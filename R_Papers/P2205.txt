@@ -1,0 +1,2 @@
+Web services
+A method, system, and/or computer program product invokes a web service in a software application. A software application comprises a machine readable description of a functionality to be supported by a web service to be invoked, and a machine readable description of an execution instruction for the web service to be invoked. One or more processors determine/identify a web service that supports the functionality to be supported and the execution instruction for the web service to be invoked.
