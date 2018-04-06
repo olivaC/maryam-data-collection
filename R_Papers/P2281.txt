@@ -1,0 +1,2 @@
+StateComparator: Detecting Unbounded Variables Using JPF
+Model checking software applications can result in exploring large or infinite state spaces. It is thus essential to identify and abstract variables that could potentially take on a large number of values, in order to increase state matching. In this paper we describe a tool we created as an extension to Java PathFinder, called State-Comparator, which compares states in the state space to identify variables that should be abstracted.

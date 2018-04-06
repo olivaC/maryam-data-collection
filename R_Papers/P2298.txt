@@ -1,0 +1,2 @@
+Workshop on revisions to SE 2004
+We shall conduct a half-day workshop on needed revisions to Software Engineering 2004: Curriculum Guidelines for Undergraduate Degree Programs in Software Engineering (SE 2004). A brief overview of the current guidelines and their revision status will be presented. Workshop attendees will share their experience using the current guidelines and suggest needed changes. We will provide a summary report from the workshop to other CSEE&T attendees at a Birds Of a Feather meeting later during the conference.
