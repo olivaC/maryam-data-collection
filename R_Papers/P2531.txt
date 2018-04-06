@@ -1,0 +1,2 @@
+Reconstructing core dumps
+When a software failure occurs in the field, it is often difficult to reproduce. Guided by a memory dump at the moment of failure (a “core dump”), our RECORE test case generator searches for a series of events that precisely reconstruct the failure from primitive data. Applied on seven non-trivial Java bugs, RECORE reconstructs the exact failure in five cases without any runtime overhead in production code.

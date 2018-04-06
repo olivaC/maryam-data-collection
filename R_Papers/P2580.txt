@@ -1,0 +1,2 @@
+Self-repairing programs (dagstuhl seminar 11062)
+Dagstuhl seminar 11062 ``Self-Repairing Programs'' included 23 participants and organizers from research and industrial communities. Self-Repairing Programs are a new and emerging area, and many participants reported that they initially felt their first research home to be in another area, such as testing, program synthesis, debugging, self-healing systems, or security. Over the course of the seminar, the participants found common ground in discussions of concerns, challenges, and the state of the art.

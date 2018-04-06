@@ -1,0 +1,2 @@
+Mining models
+Modern Model Checking techniques can easily verify advanced properties in complex software systems. Specifying these models and properties is as hard as ever, though. I present techniques to extract models from legacy systems—models that are precise and complete enough to serve as specifications, and which open the door to modular verification.

@@ -1,0 +1,2 @@
+Predicting defects in code
+A system is described herein that predicts defects in a portion of code of an application that is configured to execute on a computing device. Versions of code are analyzed to locate change bursts, which are alterations to at least one portion of code over time-related events. If a change burst is identified, defects are predicted with respect to the code based at least in part upon the identified change burst.

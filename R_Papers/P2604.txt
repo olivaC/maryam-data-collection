@@ -1,0 +1,2 @@
+07491 Executive Summary--Mining Programs and Processes
+The main goal of the seminar "Mining Programs and Processes" was to create a synergy between researchers of three communities, namely mining software repositories, data mining and machine learning, and empirical software engineering.

@@ -1,0 +1,2 @@
+Mining API popularity
+When designing a piece of software, one frequently must choose between multiple external libraries that provide similar services. Which library is the best one to use? We mined hundreds of open source projects and their external dependencies in order to observe the popularity of their APIs and to give recommendations of the kind: “Projects are moving away from this API element. Consider a change.” Such wisdom of the crowds can provide valuable information to both the API users and the API producers.

@@ -1,0 +1,2 @@
+Lightweight Mining of Object Usage
+Whenever we want to use a third-party package, we need to understand the services it provides as well as the services it requires. Such a description typically comes as part of the documentation of the programmer application interface (API), providing a specification for each function provided. Correct usage of these individual functions is also easily checked. Statically typed signatures, for instance, are part of most programming languages; violations can be discovered right within the editor.

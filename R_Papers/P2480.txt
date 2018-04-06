@@ -1,0 +1,2 @@
+AppMining
+A fundamental question of security analysis is: When is a behavior normal, and when is it not? We present techniques that extract behavior patterns from thousands of apps—patters that represent normal behavior, such as “A travel app normally does not access stored text messages”. Combining data flow analysis with app descriptions and GUI data from both apps and their stores allows for massive machine learning, which then also allows to detect yet unknown malware by classifying it as abnormal.

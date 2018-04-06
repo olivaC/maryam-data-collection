@@ -1,0 +1,2 @@
+Artifact Evaluation for Publications (Dagstuhl Perspectives Workshop 15452)
+This report documents the program and the outcomes of Dagstuhl Perspectives Workshop 15452 "Artifact Evaluation for Publications". This Perspectives Workshop conveyed several stakeholders in artifact evaluation from different communities to assess how artifact evaluation is working and make recommendations to the computer systems research community about several issues with the process.

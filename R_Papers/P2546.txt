@@ -1,0 +1,2 @@
+Webmate: a tool for testing web 2.0 applications
+applications based on JavaScript pose new challenges for testing, as a simple crawling through links covers only a small part of the functionality. The WEBMATE approach automatically explores and navigates through arbitrary Web 2.0 applications. WEBMATE addresses challenges such as interactive elements, state abstraction, and non-determinism in large applications; we demonstrate its usage for regular application testing as well as for cross-browser testing.

@@ -1,0 +1,2 @@
+Hardware and Software: Verification and Testing
+This book constitutes the thoroughly refereed proceedings of the 8th International Haifa Verification Conference, HVC 2012, held in Haifa, Israel in November 2012. The 18 revised full papers presented together with 3 poster presentations were carefully reviewed and selected from 36 submissions. They focus on the future directions of testing and verification for hardware, software, and complex hybrid systems.

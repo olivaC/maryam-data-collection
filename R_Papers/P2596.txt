@@ -1,0 +1,2 @@
+Why programs fail: a guide to systematic debugging
+WHY PROGRAMS FAIL is a book about bugs in computer programs, how to reproduce them, how to find them, and how to fix them such that they do not occur anymore. This book teaches a number of techniques that allow you to debug any program in a systematic, and sometimes even elegant way. Moreover, the techniques can widely be automated, which allows you to let your computer do most of the debugging.

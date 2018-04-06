@@ -1,0 +1,2 @@
+Mining specifications: A roadmap
+Recent advances in software validation and verification make it possible to widely automate whether a specification is satisfied. This progress is hampered, though, by the persistent difficulty of writing specifications. Are we facing a “specification crisis”? In this paper, I show how to alleviate the burden of writing specifications by reusing and extending specifications as mined from existing software and give an overview on the state of the art in specification mining, its origins, and its potential.

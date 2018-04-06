@@ -1,0 +1,2 @@
+Project-specific deletion patterns
+We apply data mining to version control data in order to detect project-specific deletion patterns---subcomponents or features of the software that were deleted on purpose. We believe that locations that are similar to earlier deletions are likely to be code smells. Future recommendation tools can warn against such smells: "People who used gets() in the past now use fgets(). Consider a change, too."

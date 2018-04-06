@@ -1,0 +1,2 @@
+Mining apps for anomalies
+Does a program do what it is supposed to do? Once answer to this question could come from app mining – that is, the knowledge encoded into the hundreds of thousands of apps available in app stores. App mining can help to determine what would be normal and abnormal behavior, and thus guide programmers and users toward better security and usability.

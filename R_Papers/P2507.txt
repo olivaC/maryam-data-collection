@@ -1,0 +1,2 @@
+XMLMate: evolutionary XML test generation
+Generating system inputs satisfying complex constraints is still a challenge for modern test generators. We present XMLMATE, a search-based test generator specially aimed at XML-based systems. XMLMATE leverages program structure, existing XML schemas, and XML inputs to generate, mutate, recombine, and evolve valid XML inputs. Over a set of seven XML-based systems, XMLMATE detected 31 new unique failures in production code, all triggered by system inputs and thus true alarms.

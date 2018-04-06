@@ -1,0 +1,2 @@
+Can We Trust Software Repositories?
+To acquire data for empirical studies, software engineering researchers frequently leverage software repositories as data sources. Indeed, version and bug databases contain a wealth of data on how a product came to be. To turn this data into knowledge, though, requires deep insights into the specific process and product; and it requires careful scrutiny of the techniques used to obtain the data. The central challenge of the future will thus be to combine both automatic and manual empirical analysis.

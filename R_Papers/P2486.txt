@@ -1,0 +1,2 @@
+Automatisches Sicherheitstesten
+Moderne Testgeneratoren finden Schwachstellen in Eingabeschnittstellen von Programmen, indem sie in Sekunden tausende Eingaben zufällig erzeugen. Die Werkzeuge lassen sich leicht von jedermann einsetzen–zum Angriff oder zur Verteidigung.

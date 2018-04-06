@@ -1,0 +1,3 @@
+Search-based testing and system testing: a marriage in heaven
+Abstract:
+Software test generation can take place at the function level or the system level, and be driven by random, constraint-based, and/or search-based techniques. In this paper, we argue that the best way to generate tests is at the system level, as it avoids false failures due to implicit preconditions, and that for testing at the system level, search-based techniques are best suited as they avoid the combinatorial explosion of conditions due to long paths.

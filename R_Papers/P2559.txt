@@ -1,0 +1,2 @@
+Assessing modularity via usage changes
+Good program design strives towards modularity, that is, limiting the effects of changes to the code. We assess the modularity of software modules by mining change histories: The more a change to a module implementation changes its usage in client code, the lower its modularity. In an early analysis of four different releases of open-source projects, we found that changes can differ greatly in their impact on client code, and that such impact helps in assessing modularity.

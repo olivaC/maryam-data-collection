@@ -1,0 +1,2 @@
+Wo ist der Fehler und wie wird er behoben? Ein Experiment mit Softwareentwicklern.
+Dieser Beitrag ist eine gekürzte, deutsche Version unseres Artikels "Where is the Bug and How is it Fixed? An Experiment with Practitioners" publiziert in dem Berichtsband des elften gemeinsamen Treffens der European Software Engineering Conference und des ACM SIGSOFT Symposium on the Foundations of Software Engineering.

@@ -1,0 +1,2 @@
+Mining trends of library usage
+A library is available in multiple versions. Which one should I use? Has it been widely adopted already? Was it a good decision to switch to the newest version? We have mined hundreds of open-source projects for their library dependencies, and determined global trends in library usage. This wisdom of the crowds can be helpful for developers when deciding when to use which version of a library - by helping them avoid pitfalls experienced by other developers, and by showing important emerging trends in library usage.

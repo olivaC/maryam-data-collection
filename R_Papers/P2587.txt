@@ -1,0 +1,2 @@
+Introduction: The Best Papers of ISSTA
+We present the best papers of the International Symposium on Software Testing and Analysis (ISSTA) 2008.
