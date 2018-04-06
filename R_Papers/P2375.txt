@@ -1,0 +1,2 @@
+File system-independent block device support for storage class memory
+Storage class memory (SCM) modules can be placed side-by-side with DRAM on the memory bus, available to memory instructions issued by the CPU. This shift engenders a new “DRAM-SCM” storage architecture and potentially allows near-DRAM secondary storage access speed, which is several orders of magnitude faster than magnetic disk or flash memory. Utilizing SCM as a secondary storage device will have a profound impact on memory hierarchy design, requiring new architectural and operating system support.

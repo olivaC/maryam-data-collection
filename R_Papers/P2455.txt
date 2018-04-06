@@ -1,0 +1,2 @@
+Thread-sensitive modulo scheduling for multicore processors
+This paper describes a generalisation of modulo scheduling to parallelise loops for SpMT processors that exploits simultaneously both instruction-level parallelism and thread-level parallelism while preserving the simplicity and effectiveness of modulo scheduling. Our generalisation is simple, drops easily into traditional modulo scheduling algorithms such as Swing in GCC 4.1.1 and produces good speedups for SPECfp2000 benchmarks, particularly in terms of its ability in parallelising DOACROSS loops.

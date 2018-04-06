@@ -1,0 +1,2 @@
+Factorization of singular integer matrices
+It is well known that a singular integer matrix can be factorized into a product of integer idempotent matrices. In this paper, we prove that every n   ×  n (n > 2) singular integer matrix can be written as a product of 3n + 1 integer idempotent matrices. This theorem has some application in the field of synthesizing VLSI arrays and systolic arrays.

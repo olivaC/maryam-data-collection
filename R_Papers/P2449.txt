@@ -1,0 +1,2 @@
+Modeling, simulation and design of a very-high-frequency dual-active-bridge converter
+A high-frequency dual-active-bridge converter is designed. Analysis and simulation using models of different detail levels are involved in the design iteration.

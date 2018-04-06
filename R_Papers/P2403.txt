@@ -1,0 +1,2 @@
+Ownership types for object synchronisation
+Shared-memory concurrent programming is difficult and error prone because memory accesses by concurrent threads need to be coordinated through synchronisation, which relies on programmer discipline and suffers from a lack of modularity and compile-time support. This paper exploits object structures, provided by ownership types, to enable a structured synchronisation scheme which guarantees safety and allows more concurrency within structured tasks.
