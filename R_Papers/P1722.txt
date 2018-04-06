@@ -1,0 +1,2 @@
+js: Evaluating Research Tool Usability on the Web
+Many research projects are publicly available but rarely used due to the difficulty of building and installing them. We propose that researchers compile their projects to JavaScript and put them online to make them more accessible to new users and thus facilitate large-scale online usability studies.
