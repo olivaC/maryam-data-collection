@@ -1,0 +1,2 @@
+Static analysis for enforcing intra-thread consistent locks in the migration of a legacy system
+Often, legacy data management systems provide no native support to transactions. Programmers protect data from concurrent access by adopting commonly agreed patterns, relying on low level concurrency primitives, such as semaphores. In such cases, consistent data access is granted only if all code components are compliant with the adopted mutual exclusion patterns.

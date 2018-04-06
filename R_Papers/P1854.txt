@@ -1,0 +1,2 @@
+Intrinsic software redundancy for self-healing software systems, automated oracle generation
+Software systems are intrinsically redundant. We identify the sources of intrinsic software redundancy in good design practices, and suggest how to exploit intrinsic software redundancy to augment software systems with self-healing capabilities and to automatically generate test oracles.

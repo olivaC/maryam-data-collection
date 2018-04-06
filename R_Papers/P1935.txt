@@ -1,0 +1,2 @@
+Lexicon bad smells in software
+We introduce the notion of "lexicon bad smell", which parallels that of "code smell" and indicates some potential lexicon construction problems that can be addressed through refactoring (e.g., renaming). We created a catalog of lexicon bad smells and we developed a publicly available suite of detectors to locate them. The paper presents a case study in which we used the detectors on two open-source systems. The study revealed the main challenges faced in detecting the lexicon bad smells.

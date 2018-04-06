@@ -1,0 +1,2 @@
+eCAT: a tool for automating test cases generation and execution in testing multi-agent systems
+We introduce eCAT, a tool that supports deriving test cases semi-automatically from goal-based analysis diagrams, generates meaningful test inputs based on agent interaction ontology, and more importantly it can evolve and execute test cases automatically and continuously on a multi-agent system (MAS). Our experiments have shown that the proposed tool can exercise MAS more extensively and effectively than manual testing under the usual time constraints.

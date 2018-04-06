@@ -1,0 +1,2 @@
+Measuring the impact of different categories of software evolution
+Software evolution involves different categories of interventions, having variable impact on the code. Knowledge about the expected impact of an intervention is fundamental for project planning and resource allocation. Moreover, deviations from the expected impact may hint for areas of the system having a poor design. In this paper, we investigate the relationship between evolution categories and impacted code by means of a set of metrics computed over time for a subject system.

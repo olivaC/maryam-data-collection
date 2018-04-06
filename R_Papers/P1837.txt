@@ -1,0 +1,2 @@
+Automatic Page Object Generation with APOGEN
+Page objects are used in web test automation to decouple the test cases logic from their concrete implementation. Despite the undeniable advantages they bring, as decreasing the maintenance effort of a test suite, yet the burden of their manual development limits their wide adoption. In this demo paper, we give an overview of Apogen, a tool that leverages reverse engineering, clustering and static analysis, to automatically generate Java page objects for web applications.
